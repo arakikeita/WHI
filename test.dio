@@ -1,11 +1,11 @@
 <mxfile host="65bd71144e">
     <diagram id="TBAquhdGUED4THHUSPOs" name="ページ1">
-        <mxGraphModel dx="1645" dy="1747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+        <mxGraphModel dx="1513" dy="1763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
                 <mxCell id="395" value="マインドマップ" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=#6c8ebf;strokeWidth=1;gradientColor=#7ea6e0;fontStyle=3;fontSize=17;fillColor=#dae8fc;" vertex="1" parent="1">
-                    <mxGeometry x="-670" y="-1030" width="540" height="390.0000000000008" as="geometry"/>
+                    <mxGeometry x="-740" y="-1020" width="540" height="390.0000000000008" as="geometry"/>
                 </mxCell>
                 <mxCell id="396" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=default;strokeWidth=1;" vertex="1" parent="395">
                     <mxGeometry y="30" width="540" height="40" as="geometry"/>
@@ -25,7 +25,7 @@
                         <mxRectangle width="60" height="40" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="400" value="HR業界" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#eeeeee;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#36393d;strokeWidth=1;fontColor=#000000;" vertex="1" parent="396">
+                <mxCell id="400" value="人間性" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#eeeeee;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#36393d;strokeWidth=1;fontColor=#000000;" vertex="1" parent="396">
                     <mxGeometry x="180" width="60" height="40" as="geometry">
                         <mxRectangle width="60" height="40" as="alternateBounds"/>
                     </mxGeometry>
@@ -35,7 +35,7 @@
                         <mxRectangle width="60" height="40" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="402" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#eeeeee;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#36393d;strokeWidth=1;fontColor=#000000;" vertex="1" parent="396">
+                <mxCell id="402" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;COMPANY&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#eeeeee;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#36393d;strokeWidth=1;fontColor=#000000;" vertex="1" parent="396">
                     <mxGeometry x="300" width="60" height="40" as="geometry">
                         <mxRectangle width="60" height="40" as="alternateBounds"/>
                     </mxGeometry>
@@ -73,7 +73,7 @@
                         <mxRectangle width="60" height="40" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="410" value="COMPANY" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#eeeeee;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#36393d;strokeWidth=1;fontSize=11;fontColor=#000000;" vertex="1" parent="406">
+                <mxCell id="410" value="&lt;span style=&quot;font-size: 9px;&quot;&gt;はたらく人、時間に感動を&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#eeeeee;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#36393d;strokeWidth=1;fontSize=11;fontColor=#000000;" vertex="1" parent="406">
                     <mxGeometry x="180" width="60" height="40" as="geometry">
                         <mxRectangle width="60" height="40" as="alternateBounds"/>
                     </mxGeometry>
@@ -83,7 +83,7 @@
                         <mxRectangle width="60" height="40" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="412" value="はたらく人、時間に感動を" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#eeeeee;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#36393d;strokeWidth=1;fontSize=9;fontColor=#000000;" vertex="1" parent="406">
+                <mxCell id="412" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;ノーカスタマイズ&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#eeeeee;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#36393d;strokeWidth=1;fontSize=9;fontColor=#000000;" vertex="1" parent="406">
                     <mxGeometry x="300" width="60" height="40" as="geometry">
                         <mxRectangle width="60" height="40" as="alternateBounds"/>
                     </mxGeometry>
@@ -121,17 +121,17 @@
                         <mxRectangle width="60" height="40" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="420" value="人間性" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#eeeeee;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#36393d;strokeWidth=1;fontColor=#000000;" vertex="1" parent="416">
+                <mxCell id="420" value="HR業界" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#eeeeee;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#36393d;strokeWidth=1;fontColor=#000000;" vertex="1" parent="416">
                     <mxGeometry x="180" width="60" height="40" as="geometry">
                         <mxRectangle width="60" height="40" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="421" value="ノーカスタマイズ" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#eeeeee;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#36393d;strokeWidth=1;fontColor=#000000;" vertex="1" parent="416">
+                <mxCell id="421" value="面接" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#eeeeee;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#36393d;strokeWidth=1;fontColor=#000000;" vertex="1" parent="416">
                     <mxGeometry x="240" width="60" height="40" as="geometry">
                         <mxRectangle width="60" height="40" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="422" value="面接" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#eeeeee;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#36393d;strokeWidth=1;fontColor=#000000;" vertex="1" parent="416">
+                <mxCell id="422" value="無償&lt;br style=&quot;font-size: 10px;&quot;&gt;バージョンアップ" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#eeeeee;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#36393d;strokeWidth=1;fontColor=#000000;fontSize=10;" vertex="1" parent="416">
                     <mxGeometry x="300" width="60" height="40" as="geometry">
                         <mxRectangle width="60" height="40" as="alternateBounds"/>
                     </mxGeometry>
@@ -164,7 +164,7 @@
                         <mxRectangle width="60" height="40" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="429" value="論理的思考" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#eeeeee;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#36393d;strokeWidth=1;fontSize=11;fontColor=#000000;" vertex="1" parent="426">
+                <mxCell id="429" value="論理的思考&lt;br&gt;CT,BF" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#eeeeee;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#36393d;strokeWidth=1;fontSize=11;fontColor=#000000;" vertex="1" parent="426">
                     <mxGeometry x="120" width="60" height="40" as="geometry">
                         <mxRectangle width="60" height="40" as="alternateBounds"/>
                     </mxGeometry>
@@ -184,17 +184,17 @@
                         <mxRectangle width="60" height="40" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="433" value="読書" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#eeeeee;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#36393d;strokeWidth=1;fontColor=#000000;" vertex="1" parent="426">
+                <mxCell id="433" value="論理的思考" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#eeeeee;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#36393d;strokeWidth=1;fontColor=#000000;" vertex="1" parent="426">
                     <mxGeometry x="360" width="60" height="40" as="geometry">
                         <mxRectangle width="60" height="40" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="434" value="新聞" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#eeeeee;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#36393d;strokeWidth=1;fontColor=#000000;" vertex="1" parent="426">
+                <mxCell id="434" value="リーダーシップ" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#eeeeee;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#36393d;strokeWidth=1;fontColor=#000000;" vertex="1" parent="426">
                     <mxGeometry x="420" width="60" height="40" as="geometry">
                         <mxRectangle width="60" height="40" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="435" value="語彙力" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#eeeeee;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#36393d;strokeWidth=1;fontColor=#000000;" vertex="1" parent="426">
+                <mxCell id="435" value="主体性" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#eeeeee;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#36393d;strokeWidth=1;fontColor=#000000;" vertex="1" parent="426">
                     <mxGeometry x="480" width="60" height="40" as="geometry">
                         <mxRectangle width="60" height="40" as="alternateBounds"/>
                     </mxGeometry>
@@ -227,22 +227,22 @@
                         <mxRectangle width="60" height="40" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="442" value="論理的思考" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#cce5ff;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#36393d;strokeWidth=1;fontSize=11;fontColor=#000000;" vertex="1" parent="436">
+                <mxCell id="442" value="マネジメント" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#cce5ff;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#36393d;strokeWidth=1;fontSize=9;fontColor=#000000;" vertex="1" parent="436">
                     <mxGeometry x="300" width="60" height="40" as="geometry">
                         <mxRectangle width="60" height="40" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="443" value="CT" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#eeeeee;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#36393d;strokeWidth=1;fontColor=#000000;" vertex="1" parent="436">
+                <mxCell id="443" value="&lt;span style=&quot;font-size: 9px;&quot;&gt;コミュニケーション能力&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#eeeeee;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#36393d;strokeWidth=1;fontColor=#000000;" vertex="1" parent="436">
                     <mxGeometry x="360" width="60" height="40" as="geometry">
                         <mxRectangle width="60" height="40" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="444" value="論理的思考" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#666666;strokeWidth=1;fontStyle=7;fontSize=11;gradientColor=#b3b3b3;fontColor=#000000;" vertex="1" parent="436">
+                <mxCell id="444" value="マネジメント" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#666666;strokeWidth=1;fontStyle=7;fontSize=9;gradientColor=#b3b3b3;fontColor=#000000;" vertex="1" parent="436">
                     <mxGeometry x="420" width="60" height="40" as="geometry">
                         <mxRectangle width="60" height="40" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="445" value="疑問を持つ" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#eeeeee;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#36393d;strokeWidth=1;fontSize=11;fontColor=#000000;" vertex="1" parent="436">
+                <mxCell id="445" value="コーチング&lt;br&gt;スキル" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#eeeeee;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#36393d;strokeWidth=1;fontSize=11;fontColor=#000000;" vertex="1" parent="436">
                     <mxGeometry x="480" width="60" height="40" as="geometry">
                         <mxRectangle width="60" height="40" as="alternateBounds"/>
                     </mxGeometry>
@@ -260,7 +260,7 @@
                         <mxRectangle width="60" height="40" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="449" value="付加価値" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#eeeeee;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#36393d;strokeWidth=1;fontColor=#000000;" vertex="1" parent="446">
+                <mxCell id="449" value="読書" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#eeeeee;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#36393d;strokeWidth=1;fontColor=#000000;" vertex="1" parent="446">
                     <mxGeometry x="120" width="60" height="40" as="geometry">
                         <mxRectangle width="60" height="40" as="alternateBounds"/>
                     </mxGeometry>
@@ -280,17 +280,17 @@
                         <mxRectangle width="60" height="40" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="453" value="BF" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#eeeeee;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#36393d;strokeWidth=1;fontColor=#000000;" vertex="1" parent="446">
+                <mxCell id="453" value="分析力" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#eeeeee;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#36393d;strokeWidth=1;fontColor=#000000;" vertex="1" parent="446">
                     <mxGeometry x="360" width="60" height="40" as="geometry">
                         <mxRectangle width="60" height="40" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="454" value="具体的な言葉選び" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#eeeeee;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#36393d;strokeWidth=1;fontColor=#000000;" vertex="1" parent="446">
+                <mxCell id="454" value="課題解決力" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#eeeeee;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#36393d;strokeWidth=1;fontColor=#000000;fontSize=11;" vertex="1" parent="446">
                     <mxGeometry x="420" width="60" height="40" as="geometry">
                         <mxRectangle width="60" height="40" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="455" value="習慣化" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#eeeeee;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#36393d;strokeWidth=1;fontColor=#000000;" vertex="1" parent="446">
+                <mxCell id="455" value="人間力" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#eeeeee;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#36393d;strokeWidth=1;fontColor=#000000;" vertex="1" parent="446">
                     <mxGeometry x="480" width="60" height="40" as="geometry">
                         <mxRectangle width="60" height="40" as="alternateBounds"/>
                     </mxGeometry>
