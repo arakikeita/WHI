@@ -82,3 +82,7 @@
 
    
 
+  ## ⑤マインドマップ
+
+  [![Image from Gyazo](https://i.gyazo.com/73bfc3a5a0806dd33dffe4e7924ea0ed.png)](https://gyazo.com/73bfc3a5a0806dd33dffe4e7924ea0ed)
+
