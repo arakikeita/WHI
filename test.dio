@@ -17,7 +17,7 @@
                         <mxRectangle width="60" height="40" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="398" value="人間性" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#cce5ff;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#36393d;strokeWidth=1;fontColor=#000000;" vertex="1" parent="396">
+                <mxCell id="398" value="人間力" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#cce5ff;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#36393d;strokeWidth=1;fontColor=#000000;" vertex="1" parent="396">
                     <mxGeometry x="60" width="60" height="40" as="geometry">
                         <mxRectangle width="60" height="40" as="alternateBounds"/>
                     </mxGeometry>
@@ -421,7 +421,7 @@
                         <mxRectangle width="60" height="40" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="482" value="人間性" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#eeeeee;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#36393d;strokeWidth=1;fontColor=#000000;" vertex="1" parent="476">
+                <mxCell id="482" value="人間力" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#eeeeee;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#36393d;strokeWidth=1;fontColor=#000000;" vertex="1" parent="476">
                     <mxGeometry x="300" width="60" height="40" as="geometry">
                         <mxRectangle width="60" height="40" as="alternateBounds"/>
                     </mxGeometry>
